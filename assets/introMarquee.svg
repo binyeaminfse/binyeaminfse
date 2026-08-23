@@ -25,7 +25,7 @@
   <g class="marquee-track">
     <!-- First Text Instance -->
     <text x="0" y="42">
-      Hi, this is Yeamin... ⚡ FullStack Developer 💻 • Crafting Modern Web Experiences Thanks for exploring my craft! •&#160; .then(=>)
+      Hi, this is Yeamin... ⚡ FullStack Developer 💻 • Crafting Modern Web Experiences. • Thanks for exploring my craft! •&#160; .then(=>)
     </text>
     
     <!-- Seamless Duplicate Instance for Infinite Loop -->
