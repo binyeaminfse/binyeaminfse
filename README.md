@@ -1,6 +1,6 @@
 <div align="center">
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mdyeamin&label=Visitors&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=binyeaminfse&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
   <a href="">
@@ -99,9 +99,9 @@ _Building robust applications with a modern and scalable stack._
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdyeamin05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/binyeaminfse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/16836780/md-yeamin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://facebook.com/mdyeamin05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://facebook.com/binyeaminfse"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://medium.com/@coderyeamin"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:coderyeamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -114,19 +114,19 @@ _A collection of my recent web development projects and experiments._
 
 | Project Name         | Tech Stack                                              |                         Live Demo                          |                                                                             Source Code                                                                             |
 | :------------------- | :------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Digital-Workflow** | `React` `Tailwind` `DaisyUI`<br>`Framer Motion` `Axios` | [🌐 Visit Site](https://digital-workflow-plum.vercel.app/) |                                                     [📁 Frontend](https://github.com/mdyeamin/Digital-Workflow)                                                     |
-| **Travel Curios**    | `MERN Stack` `Firebase`<br>`Node.js` `MongoDB`          |     [🌐 Visit Site](https://travel-curiosity.web.app/)     | [📁 Client](https://github.com/mdyeamin/tourism-or-delivery-website-client-side) / [⚙️ Server](https://github.com/mdyeamin/tourism-or-delivery-website-server-side) |
-| **Health Sense**     | `React` `Firebase Auth`<br>`Bootstrap`                  |    [🌐 Visit Site](https://health-sense-d3b2a.web.app/)    |                                                [📁 Frontend](https://github.com/mdyeamin/-healthcare-react-firebase)                                                |
-| **Code Education**   | `React` `Context API`<br>`Netlify`                      |   [🌐 Visit Site](https://procodeeducation.netlify.app/)   |                                                   [📁 Frontend](https://github.com/mdyeamin/review-website-react)                                                   |
+| **Digital-Workflow** | `React` `Tailwind` `DaisyUI`<br>`Framer Motion` `Axios` | [🌐 Visit Site](https://digital-workflow-plum.vercel.app/) |                                                     [📁 Frontend](https://github.com/binyeaminfse/Digital-Workflow)                                                     |
+| **Travel Curios**    | `MERN Stack` `Firebase`<br>`Node.js` `MongoDB`          |     [🌐 Visit Site](https://travel-curiosity.web.app/)     | [📁 Client](https://github.com/binyeaminfse/tourism-or-delivery-website-client-side) / [⚙️ Server](https://github.com/binyeaminfse/tourism-or-delivery-website-server-side) |
+| **Health Sense**     | `React` `Firebase Auth`<br>`Bootstrap`                  |    [🌐 Visit Site](https://health-sense-d3b2a.web.app/)    |                                                [📁 Frontend](https://github.com/binyeaminfse/-healthcare-react-firebase)                                                |
+| **Code Education**   | `React` `Context API`<br>`Netlify`                      |   [🌐 Visit Site](https://procodeeducation.netlify.app/)   |                                                   [📁 Frontend](https://github.com/binyeaminfse/review-website-react)                                                   |
 
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdyeamin&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binyeaminfse&theme=tokyo-night)
 
 <div align="center">
   <table border="0">
     <tr>
-      <td><img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=mdyeamin&theme=tokyonight&hide_border=true&background=1F222E" /></td>
+      <td><img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=binyeaminfse&theme=tokyonight&hide_border=true&background=1F222E" /></td>
     </tr>
     
   </table>
