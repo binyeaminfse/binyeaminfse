@@ -166,10 +166,5 @@ _A collection of my recent web development projects and experiments._
   </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" alt="wave" />
-  <br/>
-  <img src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" height="50" alt="divider" />
-</div>
 
 <!--START_SECTION:waka-->
