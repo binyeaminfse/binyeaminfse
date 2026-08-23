@@ -17,7 +17,7 @@
       }
       100% {
         /* Exact offset matching the total width of the text segment */
-        transform: translateX(-1850px);
+        transform: translateX(-1900px);
       }
     }
   </style>
@@ -29,7 +29,7 @@
     </text>
     
     <!-- Seamless Duplicate Instance for Infinite Loop -->
-    <text x="1850" y="42">
+    <text x="1900" y="42">
       Hi, this is Yeamin... ⚡ FullStack Developer 💻 • Crafting Modern Web Experiences Thanks for exploring my craft! •&#160;
     </text>
   </g>
