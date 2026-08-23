@@ -1,18 +1,11 @@
 <div align="center">
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=binyeaminfse&label=Visitors&color=blueviolet&style=for-the-badge" />
+<p align="center">
+  <img src="./assets/introMarquee.svg" alt="Intro Marquee" />
 </p>
 
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=500&color=FF58C4&center=true&vCenter=true&width=600&lines=Hi,+this+is+Yeamin...;But,+you+can+call+me...+;JavaScript+Lover...❤;Thanks+you+for;visiting+my+GitHub" alt="Typing SVG" />
-  </a>
-
-
-  <h2 align="center">
-    <a href="">
-      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=500&lines=MERN+FullStack+Developer...;Next.js+|+Node+|+MongoDB+|+Express+;Always+Learning+New+Things&center=true&width=500&height=50&color=00D1FF">
-    </a>
-  </h2>
+ <p align="center">
+  <img src="./assets/SkillMarquee.svg" alt="Tech Stack Marquee" />
+</p>
 
 </div>
 
@@ -30,9 +23,6 @@
     </tr>
   </table>
 </div>
-
-
-
 <div align="center" style="margin-top:50px">
 
 # ⚔️ The Arsenal: My Core Technologies
@@ -41,61 +31,106 @@ _Building robust applications with a modern and scalable stack._
 
 <br />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-<!-- <a href="https://redux.js.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a> -->
+<!-- Frontend & Frameworks -->
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank" title="React">
+    <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS" />
+  </a>
+  <a href="https://ui.shadcn.com/" target="_blank" title="shadcn/ui">
+    <img src="https://cdn.simpleicons.org/shadcnui" height="42" alt="shadcn/ui" />
+  </a>
+  <a href="https://daisyui.com/" target="_blank" title="DaisyUI">
+    <img src="https://cdn.simpleicons.org/daisyui" height="42" alt="DaisyUI" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="Bootstrap" />
+  </a>
+  <a href="https://mui.com/" target="_blank" title="Material UI">
+    <img src="https://skillicons.dev/icons?i=materialui" height="42" alt="Material UI" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" title="Vite">
+    <img src="https://skillicons.dev/icons?i=vite" height="42" alt="Vite" />
+  </a>
+</p>
 
-<br />
+<!-- Backend, Databases, Auth & Payments -->
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js">
+    <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express.js" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" />
+  </a>
+  <a href="https://neon.tech/" target="_blank" title="Neon DB">
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neon-tech.svg" height="42" alt="Neon DB" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" title="Prisma">
+    <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="Prisma" />
+  </a>
+  <a href="https://redis.io/" target="_blank" title="Redis">
+    <img src="https://skillicons.dev/icons?i=redis" height="42" alt="Redis" />
+  </a>
+  <a href="https://www.better-auth.com/" target="_blank" title="Better Auth">
+    <img src="https://cdn.simpleicons.org/betterauth" height="42" alt="Better Auth" />
+  </a>
+  <a href="https://sslcommerz.com/" target="_blank" title="SSLCommerz">
+    <img src="https://www.google.com/s2/favicons?sz=128&domain=sslcommerz.com" height="42" alt="SSLCommerz" />
+  </a>
+</p>
 
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-<a href="https://daisyui.com/" target="_blank">
-  <img src="https://img.shields.io/badge/DaisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=white" /></a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-<a href="https://mui.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /></a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a>
-
-<br />
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://www.better-auth.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=shield&logoColor=white" />
-</a>
-<a href="https://axios-http.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /></a>
-
-<br />
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<a href="https://www.npmjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<!-- DevOps, Package Managers, API Clients & Tools -->
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />
+  </a>
+  <a href="https://pnpm.io/" target="_blank" title="pnpm">
+    <img src="https://skillicons.dev/icons?i=pnpm" height="42" alt="pnpm" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" title="NPM">
+    <img src="https://skillicons.dev/icons?i=npm" height="42" alt="NPM" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
+  </a>
+  <a href="https://www.usebruno.com/" target="_blank" title="Bruno">
+    <img src="https://cdn.simpleicons.org/bruno" height="42" alt="Bruno" />
+  </a>
+  <a href="https://www.thunderclient.com/" target="_blank" title="Thunder Client">
+    <img src="https://www.google.com/s2/favicons?sz=128&domain=thunderclient.com" height="42" alt="Thunder Client" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" title="Figma">
+    <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" />
+  </a>
+</p>
 
 </div>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -112,12 +147,12 @@ _Building robust applications with a modern and scalable stack._
 
 _A collection of my recent web development projects and experiments._
 
-| Project Name         | Tech Stack                                              |                         Live Demo                          |                                                                             Source Code                                                                             |
-| :------------------- | :------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Digital-Workflow** | `React` `Tailwind` `DaisyUI`<br>`Framer Motion` `Axios` | [🌐 Visit Site](https://digital-workflow-plum.vercel.app/) |                                                     [📁 Frontend](https://github.com/binyeaminfse/Digital-Workflow)                                                     |
+| Project Name         | Tech Stack                                              |                         Live Demo                          |                                                                                 Source Code                                                                                 |
+| :------------------- | :------------------------------------------------------ | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Digital-Workflow** | `React` `Tailwind` `DaisyUI`<br>`Framer Motion` `Axios` | [🌐 Visit Site](https://digital-workflow-plum.vercel.app/) |                                                       [📁 Frontend](https://github.com/binyeaminfse/Digital-Workflow)                                                       |
 | **Travel Curios**    | `MERN Stack` `Firebase`<br>`Node.js` `MongoDB`          |     [🌐 Visit Site](https://travel-curiosity.web.app/)     | [📁 Client](https://github.com/binyeaminfse/tourism-or-delivery-website-client-side) / [⚙️ Server](https://github.com/binyeaminfse/tourism-or-delivery-website-server-side) |
-| **Health Sense**     | `React` `Firebase Auth`<br>`Bootstrap`                  |    [🌐 Visit Site](https://health-sense-d3b2a.web.app/)    |                                                [📁 Frontend](https://github.com/binyeaminfse/-healthcare-react-firebase)                                                |
-| **Code Education**   | `React` `Context API`<br>`Netlify`                      |   [🌐 Visit Site](https://procodeeducation.netlify.app/)   |                                                   [📁 Frontend](https://github.com/binyeaminfse/review-website-react)                                                   |
+| **Health Sense**     | `React` `Firebase Auth`<br>`Bootstrap`                  |    [🌐 Visit Site](https://health-sense-d3b2a.web.app/)    |                                                  [📁 Frontend](https://github.com/binyeaminfse/-healthcare-react-firebase)                                                  |
+| **Code Education**   | `React` `Context API`<br>`Netlify`                      |   [🌐 Visit Site](https://procodeeducation.netlify.app/)   |                                                     [📁 Frontend](https://github.com/binyeaminfse/review-website-react)                                                     |
 
 </div>
 
@@ -128,77 +163,13 @@ _A collection of my recent web development projects and experiments._
     <tr>
       <td><img width="410px" src="https://github-readme-streak-stats.herokuapp.com?user=binyeaminfse&theme=tokyonight&hide_border=true&background=1F222E" /></td>
     </tr>
-    
   </table>
-
-
 </div>
 
 <div align="center">
-  <img height="100" src="img/hey.gif" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" alt="wave" />
   <br/>
-  <img src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" height="50" />
+  <img src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" height="50" alt="divider" />
 </div>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.08%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-🌆 Daytime                734 commits         ███████████░░░░░░░░░░░░░░   45.39 %
-🌃 Evening                516 commits         ████████░░░░░░░░░░░░░░░░░   31.91 %
-🌙 Night                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-```
-
-📅 **I'm Most Productive on Tuesday**
-
-```text
-Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
-Tuesday                  324 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-Wednesday                179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Friday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Sunday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages:
-JavaScript               31 hrs 43 mins      ███████████████████████░░   92.24 %
-JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-
-🔥 Editors:
-VS Code                  34 hrs 23 mins      █████████████████████████   100.00 %
-
-🐱‍💻 Projects:
-skill-sphere             28 hrs 36 mins      █████████████████████░░░░   83.16 %
-data-fetch-from-backend  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-express-user-management  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-skill-sphere-server      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-node-server              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-
-💻 Operating System:
-Linux                    34 hrs 23 mins      █████████████████████████   100.00 %
-```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               44 repos            ███████████░░░░░░░░░░░░░░   45.83 %
-HTML                     42 repos            ███████████░░░░░░░░░░░░░░   43.75 %
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-```
-
-Last Updated on 07/05/2026 03:52:58 UTC
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->

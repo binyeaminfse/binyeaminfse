@@ -1,0 +1,36 @@
+<svg width="700" height="40" viewBox="0 0 700 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .marquee-track {
+      display: inline-block;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 22px;
+      font-weight: 600;
+      fill: #00D1FF;
+      letter-spacing: 1px;
+      /* Speed control: change duration (e.g., 18s for faster, 28s for slower) */
+      animation: seamless-scroll 22s linear infinite;
+    }
+
+    @keyframes seamless-scroll {
+      0% {
+        transform: translateX(0);
+      }
+      100% {
+        /* Exact offset matching the total width of the text segment */
+        transform: translateX(-1100px);
+      }
+    }
+  </style>
+  
+  <g class="marquee-track">
+    <!-- First Text Instance -->
+    <text x="0" y="27">
+      FullStack Developer ⚡ Next.js • Express • PostgreSQL • Prisma • Docker • Redis • NeonDB •&#160; ➵
+    </text>
+
+    <!-- Seamless Duplicate Instance for Infinite Loop -->
+    <text x="1100" y="27">
+      FullStack Developer ⚡ Next.js • Express • PostgreSQL • Prisma • Docker • Redis • NeonDB •&#160;
+    </text>
+  </g>
+</svg>
