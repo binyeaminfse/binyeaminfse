@@ -159,12 +159,12 @@ _Building robust applications with a modern and scalable stack._
 
 _A collection of my recent web development projects and experiments._
 
-| Project Name         | Tech Stack                                              |                         Live Demo                          |                                                                                 Source Code                                                                                 |
-| :------------------- | :------------------------------------------------------ | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Digital-Workflow** | `React` `Tailwind` `DaisyUI`<br>`Framer Motion` `Axios` | [🌐 Visit Site](https://digital-workflow-plum.vercel.app/) |                                                       [📁 Frontend](https://github.com/binyeaminfse/Digital-Workflow)                                                       |
-| **Travel Curios**    | `MERN Stack` `Firebase`<br>`Node.js` `MongoDB`          |     [🌐 Visit Site](https://travel-curiosity.web.app/)     | [📁 Client](https://github.com/binyeaminfse/tourism-or-delivery-website-client-side) / [⚙️ Server](https://github.com/binyeaminfse/tourism-or-delivery-website-server-side) |
-| **Health Sense**     | `React` `Firebase Auth`<br>`Bootstrap`                  |    [🌐 Visit Site](https://health-sense-d3b2a.web.app/)    |                                                  [📁 Frontend](https://github.com/binyeaminfse/-healthcare-react-firebase)                                                  |
-| **Code Education**   | `React` `Context API`<br>`Netlify`                      |   [🌐 Visit Site](https://procodeeducation.netlify.app/)   |                                                     [📁 Frontend](https://github.com/binyeaminfse/review-website-react)                                                     |
+| Project Name | Tech Stack | Live Demo | Source Code |
+| :--- | :--- | :---: | :---: |
+| **Digital-Workflow** | `React` `Tailwind` `DaisyUI`<br>`Framer Motion` `Axios` | [🌐 Visit Site](https://digital-workflow-plum.vercel.app/) | [📁 Frontend](https://github.com/binyeaminfse/Digital-Workflow) |
+| **Travel Curios** | `MERN Stack` `Firebase`<br>`Node.js` `MongoDB` | [🌐 Visit Site](https://travel-curiosity.web.app/) | [📁 Client](https://github.com/binyeaminfse/tourism-or-delivery-website-client-side) / [⚙️ Server](https://github.com/binyeaminfse/tourism-or-delivery-website-server-side) |
+| **Health Sense** | `React` `Firebase Auth`<br>`Bootstrap` | [🌐 Visit Site](https://health-sense-d3b2a.web.app/) | [📁 Frontend](https://github.com/binyeaminfse/-healthcare-react-firebase) |
+| **Code Education** | `React` `Context API`<br>`Netlify` | [🌐 Visit Site](https://procodeeducation.netlify.app/) | [📁 Frontend](https://github.com/binyeaminfse/review-website-react) |
 
 </div>
 
