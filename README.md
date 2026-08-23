@@ -130,17 +130,29 @@ _Building robust applications with a modern and scalable stack._
   </a>
 </p>
 
-</div>
+</div><div align="center" style="margin-top:30px">
+
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/binyeaminfse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/16836780/md-yeamin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://facebook.com/binyeaminfse"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://medium.com/@coderyeamin"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:coderyeamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/binyeaminfse/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/16836780/md-yeamin" target="_blank" title="Stack Overflow">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="42" alt="Stack Overflow" />
+  </a>
+  <a href="https://facebook.com/binyeaminfse" target="_blank" title="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42" width="42" alt="Facebook" />
+  </a>
+  <a href="https://medium.com/@coderyeamin" target="_blank" title="Medium">
+    <img src="https://cdn.simpleicons.org/medium/000000" height="42" width="42" alt="Medium" />
+  </a>
+  <a href="mailto:coderyeamin@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+  </a>
 </p>
 
+</div>
 <div align="center" style="margin-top:50px">
 
 # 💻 Featured Creations
@@ -165,6 +177,5 @@ _A collection of my recent web development projects and experiments._
     </tr>
   </table>
 </div>
-
 
 <!--START_SECTION:waka-->
